@@ -51,7 +51,7 @@
         </field>
     </record>
 
-        <record id="estate_view_form" model="ir.ui.view">
+    <record id="estate_view_form" model="ir.ui.view">
         <field name="name">estate.form</field>
         <field name="model">estate.property</field>
         <field name="arch" type="xml">
